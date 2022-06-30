@@ -1,0 +1,52 @@
+green ="\033[0;32m"    # green
+yrllow="\033[0;33m"     #yellow
+blue   ="\033[0;33m"      #blue
+purpale="\033[0;34m"     
+cyan    ="\033[0;35m"
+
+
+
+print(cyan+'''___   ___  ________
+  / _ | / _ \/  _/ __/
+ / __ |/ , _// // _/  
+/_/ |_/_/|_/___/_/
+''')
+
+
+def hellow():
+	print(green+"[★] TOTEL ID  : 3000")
+	print("[★]EXAMPEL123456,1234567,12345678")
+	print ("[★]TRY PASSWORD 1234567,12345678")
+	print("[★]IF No RESULD TURE ONARPLEN MODEL 5 SECONDS")
+	print(yrllow+'''-----------------------------------------------''')
+	
+def arif():
+	print("[*] TOTEL ID :")
+	
+def sheikh():
+	print("exit")
+	
+print(purpale+"[«] SELEC YOUR OPTIOM :\n\n[1]CRACKING RANDOM\n[2] CRACKING RANDOM\n[0] EXIT PROGERAM")
+print("_____________________________")
+opt=int(input("CHOICE AN OPTION :-")) 
+print("_____________________________")
+if opt==1:
+      hellow()
+       	
+elif opt ==2:
+       arif()
+ 
+elif opt ==3:
+       sheikh()
+       
+        
+print(''' [ARIF BOOS OK]
+     
+     [ARIF BOOS OK]                               
+     [ARIF BOOS OK]
+     [ARIF BOOS OK]
+     [ARIF BOOS OK]
+     [ARIF BOOS OK]
+     [ARIF BOOS OK]'
+     [  ARIF BOOS   ]     /3000  [ARIF OK ]''')
+  
